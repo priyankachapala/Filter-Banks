@@ -5,3 +5,12 @@ In Digital  Signal Processing often there is a need to decompose signals into  l
 
 The block diagram for 2-channel filter bank with down sampling and up sampling by 2 is as shown below
 ![ 2-channel filter bank](https://in.mathworks.com/help/examples/dsp_product/win64/pr2chfilterbank.png)
+The advantage of this method is that the two sub-bands of an input audio or image file can be processed differently and then reconstructed.<br />
+The advantage of this method is that the two sub-bands of an input audio or image file can be processed differently and then reconstructed.
+
+Matlab code for audio -audio.m
+                black and white-imagebw
+                color-image
+
+
+
